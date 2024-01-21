@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "naresh",
+    "shopName": "exit",
+    "productName": "exit",
+    "price": 56,
+    "quantity": 2,
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "naresh",
+    "shopName": "egam slik",
+    "productName": "pattu",
+    "price": 34,
+    "quantity": 1,
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "kumar",
+    "shopName": "sliksaree",
+    "productName": "slik",
+    "price": 300000,
+    "quantity": 2,
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "selvam",
+    "shopName": "simplyOne",
+    "productName": "itServices and consult ",
+    "price": 1000,
+    "quantity": 6,
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "priya",
+    "shopName": "lens",
+    "productName": "glass",
+    "price": 2000,
+    "quantity": 1,
+    "active": false
+  }
+]
